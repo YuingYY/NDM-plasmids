@@ -1,0 +1,10 @@
+[['sul1', 'blaNDM-1', "aac(6')-Ib-cr"],
+ ['sul1', 'blaNDM-1', 'ARR-3'],
+ ['sul1', 'blaNDM-1', "aph(3')-VI"],
+ ['sul1', 'blaNDM-1', 'armA', 'msr(E)', 'mph(E)'],
+ ['sul1', 'blaNDM-1', 'aadA2'],
+ ['sul1', 'blaNDM-1', "aac(6')-Ib"],
+ ['sul1', 'blaNDM-1', 'rmtC']]
+
+
+[['sul1', 'dfrA12', 'mph(A)', 'blaNDM-5', 'aadA2']]

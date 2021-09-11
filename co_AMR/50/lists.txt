@@ -1,0 +1,5 @@
+[["aph(3')-VI", 'blaNDM-1'],
+ ['sul1', 'blaNDM-1', 'rmtC'],
+ ['sul1', 'blaNDM-1', 'msr(E)', 'mph(E)']]
+
+[['sul1', 'aadA2', 'dfrA12', 'blaNDM-5']]
